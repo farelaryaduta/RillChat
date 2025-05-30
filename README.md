@@ -55,24 +55,24 @@ Dengan integrasi asisten AI (LLaMA), pengguna dapat berkomunikasi lebih cerdas d
 ## 📸 Tampilan Aplikasi
 
 <p align="center">
-  <img src="/ss/CreateAccount-Andro.jpg" width="180" alt="Create Account">
-  <img src="/ss/SignIn-Andro.jpg" width="180" alt="Sign In">
-  <img src="/ss/MainScreen-Andro.jpg" width="180" alt="Main Screen">
+  <img src="/ss/New-signup-page.jpg" width="180" alt="Create Account">
+  <img src="/ss/New-login-page.jpg" width="180" alt="Sign In">
+  <img src="/ss/New-main-layout.jpg" width="180" alt="Main Screen">
   <img src="/ss/ChatWithOther-Andro.jpg" width="180" alt="Chat Screen">
   <img src="/ss/AssitenAI-Andro.jpg" width="180" alt="AI Assistant">
 </p>
 
 ## 📖 StoryBoard 
 <p align="center">
-    <img src="/ss/StoryBoard-1.png" alt="RIllChat StoryBoard">
+    <!-- <img src="/ss/StoryBoard-1.png" alt="RIllChat StoryBoard"> -->
 <p>
 
 ## 📖 UI 
 <p align="center">
-    <img src="/ss/ui-rillchat.png" alt="RIllChat uI">
+    <!-- <img src="/ss/ui-rillchat.png" alt="RIllChat uI"> -->
 <p>
 
-🎨 [Lihat Lengkap di Figma](https://www.figma.com/design/6YdAhqK75cbOjaqPd6lkv5/UI-RILLCHAT?node-id=1-4)
+<!-- 🎨 [Lihat Lengkap di Figma](https://www.figma.com/design/6YdAhqK75cbOjaqPd6lkv5/UI-RILLCHAT?node-id=1-4) -->
 
 ---
 
